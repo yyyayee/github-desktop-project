@@ -1,2 +1,2 @@
-# github-destop-project
+# github-desktop-project
  GitHub Desktop Tutorial
